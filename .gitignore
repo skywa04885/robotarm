@@ -28,5 +28,3 @@ npm-debug.log.*
 *.sass.d.ts
 *.scss.d.ts
 
-package_lock.json
-yarn.lock
